@@ -1,25 +1,14 @@
+---
+description: Instruções de como adicionar uma disciplina
+---
+
 # Adicionar
 
-## Getting Super Powers
+## Adicionando uma disciplina
 
-Becoming a super hero is a fairly straight forward process:
+Primeiramente, inicie sessão na aplicação através da página de login, ou crie uma conta caso não seja utilizador do mySchool.
 
-```
-$ give me super-powers
-```
+Após entrar no seu dashboard, selecione a secção **Registos** e a opção **Disciplinas**.
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+![Dashboard \(p&#xE1;gina inicial da aplica&#xE7;&#xE3;o\)](../../../.gitbook/assets/screenshot_1.png)
 
