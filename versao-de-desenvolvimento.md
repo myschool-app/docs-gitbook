@@ -12,3 +12,5 @@ Esta versão da aplicação é meramente ilustrativa, sendo que algumas funciona
 
 Aceda à aplicação através [deste link](https://afonsosantos.pythonanywhere.com/).
 
+
+
