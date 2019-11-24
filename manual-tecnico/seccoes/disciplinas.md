@@ -10,7 +10,6 @@ Este modelo, apesar de simples, contém alguns detalhes importantes, como o mét
 
 {% code title="models.py" %}
 ```python
-...
 class Disciplina(models.Model):
     utilizador = models.ForeignKey(User, on_delete=models.CASCADE)
     descricao = models.CharField(max_length=50, verbose_name="Descrição")
@@ -25,7 +24,6 @@ class Disciplina(models.Model):
 
     def __str__(self):
         return self.descricao
-...
 ```
 {% endcode %}
 
@@ -35,7 +33,6 @@ Algumas...
 
 {% code title="views\_app.py" %}
 ```python
-...
 class DisciplinaListView(LoginRequiredMixin, ListView):
     """
     Mostra a lista de disciplinas
@@ -110,7 +107,6 @@ class DisciplinaDeleteView(LoginRequiredMixin, SuccessMessageMixin, UserPassesTe
         messages.success(self.request, self.success_message %
                          disciplina.__dict__)
         return super(DisciplinaDeleteView, self).delete(request, *args, **kwargs)
-...
 ```
 {% endcode %}
 
@@ -120,12 +116,10 @@ URL's acessíveis pelos utilizadores da aplicação.
 
 {% code title="urls\_app.py" %}
 ```python
-...
 path('disciplinas/', DisciplinaListView.as_view(), name="app-disciplinas-lista"),
 path('disciplinas/adicionar/', DisciplinaCreateView.as_view(), name="app-disciplinas-adicionar"),
 path('disciplinas/<int:pk>/editar/', DisciplinaUpdateView.as_view(), name="app-disciplinas-editar"),
 path('disciplinas/<int:pk>/remover/', DisciplinaDeleteView.as_view(), name="app-disciplinas-remover"),
-...
 ```
 {% endcode %}
 
