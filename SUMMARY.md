@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Página Inicial](README.md)
+* [Versão de Desenvolvimento](versao-de-desenvolvimento.md)
 * [Sobre](sobre/README.md)
   * [Fundamentação do Projeto](sobre/fundamentacao-do-projeto.md)
   * [Perguntas Frequentes](sobre/faq.md)
