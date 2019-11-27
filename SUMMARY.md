@@ -20,3 +20,7 @@
 * [Secções](manual-tecnico/seccoes/README.md)
   * [Disciplinas](manual-tecnico/seccoes/disciplinas.md)
 
+## API
+
+* [Visão Geral](api/visao-geral.md)
+
