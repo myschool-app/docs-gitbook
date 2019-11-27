@@ -23,4 +23,6 @@
 ## API
 
 * [Visão Geral](api/visao-geral.md)
+* [Secções](api/seccoes/README.md)
+  * [Professores](api/seccoes/professores.md)
 
