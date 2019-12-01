@@ -19,4 +19,6 @@
 * [Visão Geral](manual-tecnico/informacoes-tecnicas.md)
 * [Secções](manual-tecnico/seccoes/README.md)
   * [Disciplinas](manual-tecnico/seccoes/disciplinas.md)
+* [Quadro Trello](https://trello.com/b/ehbbTlVS)
+* [Github](https://github.com/myschool-app)
 
