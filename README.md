@@ -14,7 +14,7 @@ O conteúdo destas páginas está sujeito a alterações, uma vez que a aplicaç
 
 ## Bem-vindo!
 
-No menu lateral **pode** navegar pela documentação.
+No menu lateral pode navegar pela documentação.
 
 
 
