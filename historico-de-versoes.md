@@ -4,21 +4,18 @@ description: Histórico das versões da aplicação mySchool
 
 # Histórico de Versões
 
-## 15.0.0 - 2042-12-03
+## 0.1 - Versão Alpha \(Dezembro 2019\)
 
-### Fixed
+Primeira versão da aplicação.
 
-* Removed humans, they weren't doing fine with animals.
+### Adicionado
 
-### Changed
+* Secção de Disciplinas, Professores, Testes e Eventos.
+* Dashboard inicial da aplicação.
+* Páginas públicas.
+* Login e Registo.
 
-* Animals are now super cute, all of them.
+### Github
 
-## 14.0.0 - 2042-10-06
-
-### Added
-
-* Introduced animals into the world, we believe they're going to be a neat addition.
-
-
+[Consulte aqui](https://github.com/myschool-app/mySchool/releases/tag/0.1-alpha) o código desta versão no repositório do Github.
 
