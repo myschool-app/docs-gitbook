@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Página Inicial](README.md)
-* [Public Alpha](public-alpha.md)
 * [Histórico de Versões](historico-de-versoes.md)
 
 ## Manual do Utilizador
