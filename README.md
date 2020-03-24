@@ -6,15 +6,11 @@ description: Documentação da aplicação mySchool
 
 ![](.gitbook/assets/myschool_preto.png)
 
-{% hint style="warning" %}
-O conteúdo destas páginas está sujeito a alterações, uma vez que a aplicação ainda se encontra em fase _Alpha_. 
+{% hint style="info" %}
+O conteúdo destas páginas está sujeito a alterações, uma vez que a aplicação ainda se encontra em fase de desenvolvimento.
 
-Mais informações acerca do progresso da aplicação na página [Histórico de Versões](historico-de-versoes.md).
+Mais informações acerca do progresso da aplicação no [repositório do Github](https://github.com/myschool-app/mySchool).
 {% endhint %}
 
-## Bem-vindo!
-
-No menu lateral pode navegar pela documentação.
-
-
+## Acerca do mySchool
 

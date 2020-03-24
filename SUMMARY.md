@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Página Inicial](README.md)
-* [Histórico de Versões](historico-de-versoes.md)
 
 ## Manual do Utilizador
 
