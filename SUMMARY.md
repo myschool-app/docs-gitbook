@@ -15,7 +15,8 @@
 ## Manual Técnico
 
 * [Visão Geral](manual-tecnico/informacoes-tecnicas.md)
-* [Modelo ER](manual-tecnico/modelo-er.md)
+* [Base de Dados](manual-tecnico/base-de-dados/README.md)
+  * [Modelo ER](manual-tecnico/base-de-dados/modelo-er.md)
 * [Secções](manual-tecnico/seccoes/README.md)
   * [Disciplinas](manual-tecnico/seccoes/disciplinas.md)
 * [mySchool](https://myschool-app.tk/)
