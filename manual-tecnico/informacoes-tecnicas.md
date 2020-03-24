@@ -6,5 +6,6 @@ description: Descrição geral do manual técnico da aplicação
 
 A documentação técnica está organizada da seguinte forma:
 
-* **Em cada página existem separadores para separar o ambiente de desenvolvimento do ambiente de produção**, havendo assim informação relativa aos dois ambientes
-* 
+* **Em cada página existem separadores para separar o ambiente de desenvolvimento do ambiente de produção**, havendo assim informação relativa aos dois ambientes.
+* **No separador Secções estão disponíveis observações e outras informações pertinentes acerca de cada secção/subsistema** do mySchool.
+
